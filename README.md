@@ -1,7 +1,5 @@
 [![Build Status](https://travis-ci.org/eyedol/checkin.svg?branch=master)](https://travis-ci.org/eyedol/checkin)
 
-# Check-In - Work In Progress
-
 <h1 align=center>
 <img src="art/logo/horizontal.png" width=40%>
 </h1>
